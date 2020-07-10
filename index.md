@@ -16,6 +16,6 @@
   </h2> 
 
 
-  <a href="AtlasShurgged.html"> Atlas Shurgged by Ayn Rand</a>
+  <a href="./AtlasShurgged.html"> Atlas Shurgged by Ayn Rand</a>
 
 <html>
