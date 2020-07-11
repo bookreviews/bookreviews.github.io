@@ -12,12 +12,12 @@
   background-image: url("blur-book-stack-books-bookshelves-590493.jpg"); 
   background-position: center top;
   background-size: cover;
-  height: 500px;
+  height: 1000px;
   text-shadow: 0.25px 0.25px 0.25px #000000;
 }
 
-.wordBorder{
-  margin: 30;
+.white{
+  color: white;
 }
 
 .black{
