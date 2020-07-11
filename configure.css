@@ -5,5 +5,9 @@
 }
 
 .homeBorder {
-   border: 2px solid black ; 
+  border: 2px solid black ; 
+  background-image: url("blur-book-stack-books-bookshelves-590493.jpg"); 
+  background-position: center top;
+  background-size: cover;
+  color: white; 
 }
