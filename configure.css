@@ -4,11 +4,15 @@
   text-align:center;
 }
 
-.homeBorder {
+.jumbotron {
+  display: flex;
+  align-items: center;
   border: 2px solid black ; 
   background-image: url("blur-book-stack-books-bookshelves-590493.jpg"); 
   background-position: center top;
   background-size: cover;
+  height: 500px;
+  text-shadow: 0.25px 0.25px 0.25px #000000;
   color: white; 
 }
 
