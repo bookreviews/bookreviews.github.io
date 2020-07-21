@@ -13,12 +13,12 @@
   background-position: center top;
   background-size: cover;
   height: 750px;
-  text-shadow: 0.5px 0.5px 0.5px #000000;
+  text-shadow: 0.7px 0.7px 0.7px #000000;
 }
 
 .color{
   color: beige; 
-  text-shadow: 0.5px 0.5px 0.5px #000000;
+  text-shadow: 0.7px 0.7px 0.7px #000000;
 }
 .white{
   color: white;
