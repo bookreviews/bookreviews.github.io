@@ -26,3 +26,11 @@
 .black{
   background-color: black;
 }
+
+.review{
+  
+  margin: 50px;
+  border: 2px solid black;
+  background-color: beige;
+  
+}
