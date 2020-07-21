@@ -30,6 +30,10 @@
   background-color: black;
 }
 
+.booksbackground{
+    background-image: url("blur-book-stack-books-bookshelves-590493.jpg"); 
+}
+
 .review{
   
   margin: 50px;
